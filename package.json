@@ -1,6 +1,6 @@
 {
   "name": "md-meta-loader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "webpack md loader",
   "main": "lib/index.js",
   "scripts": {
@@ -27,6 +27,7 @@
     "babel-preset-es2015": "6.x",
     "babel-preset-react": "6.x",
     "babel-preset-stage-0": "6.x",
+    "babel-preset-stage-2": "6.x",
     "recast": "^0.11.2"
   },
   "author": "huiop368",
